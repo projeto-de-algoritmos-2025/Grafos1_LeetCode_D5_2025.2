@@ -45,7 +45,7 @@ Foi utilizado linguagem C e Python.
 
 ### Exercício 04
 
-![Exercício 4 - Kth Smallest Element in a BST](caminho/para/imagem.png)
+![Exercício 4 - Kth Smallest Element in a BST](230_KgesimoMenor/230.png)
 
 
 ## Vídeo de apresentação do Trabalho 1
