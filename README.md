@@ -20,13 +20,12 @@ Foi utilizado linguagem C e Python.
 
 ## Questões
 
-| Questão | Nível  | Vídeo Explicando |
+| Questão | Nível  | Link do vídeo |
 |---------|--------|------------------|
 | [numero. Nome do exercio]() | Difícil | [Vídeo]() |
 | [numero. Nome do exercio]() | Médio | [Vídeo]() |
-| [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
+| [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo]() |
-
 
 
 ## Screenshots
@@ -41,7 +40,7 @@ Foi utilizado linguagem C e Python.
 
 ### Exercício 03 
 
-![Texto alternativo](caminho/para/imagem.png)
+![Texto alternativo](1028_RecuperaArvore/1028.png)
 
 ### Exercício 04
 
