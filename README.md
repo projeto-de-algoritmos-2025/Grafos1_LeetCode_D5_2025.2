@@ -38,11 +38,11 @@ Foi utilizado linguagem C e Python.
 
 ![Texto alternativo](caminho/para/imagem.png)
 
-### Exercício 03 
+### Exercício 03 - Recuperar árvore
 
 ![Texto alternativo](1028_RecuperaArvore/1028.png)
 
-### Exercício 04
+### Exercício 04 - K-gésimo menor elemento
 
 ![Exercício 4 - Kth Smallest Element in a BST](230_KgesimoMenor/230.png)
 
