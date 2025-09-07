@@ -22,9 +22,9 @@ Foi utilizado linguagem C.
 
 | Questão | Nível  | Link do vídeo |
 |---------|--------|------------------|
-| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description) | Difícil | [Vídeo]() |
-| [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
-| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo]() |
+| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description) | Difícil | [Vídeo](https://youtu.be/NaccBaOqDb4) |
+| [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo](https://youtu.be/NaccBaOqDb4) |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo](https://youtu.be/NaccBaOqDb4) |
 
 
 ## Screenshots
@@ -43,4 +43,4 @@ Foi utilizado linguagem C.
 
 
 ## Vídeo de apresentação do Trabalho 1
-[Vídeo]()
+[Vídeo](https://youtu.be/NaccBaOqDb4)
