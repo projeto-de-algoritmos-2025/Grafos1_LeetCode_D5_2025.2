@@ -16,13 +16,13 @@ Para este primeiro trabalho, decidimos resolver questões do leetcode.
 
 ## Linguagens utilizadas
 
-Foi utilizado linguagem C e Python.
+Foi utilizado linguagem C.
 
 ## Questões
 
 | Questão | Nível  | Link do vídeo |
 |---------|--------|------------------|
-| [numero. Nome do exercio]() | Difícil | [Vídeo]() |
+| [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description) | Difícil | [Vídeo]() |
 | [numero. Nome do exercio]() | Médio | [Vídeo]() |
 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=problem-list-v2&envId=depth-first-search) | Difícil | [Vídeo]() |
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=depth-first-search) | Médio | [Vídeo]() |
@@ -30,9 +30,9 @@ Foi utilizado linguagem C e Python.
 
 ## Screenshots
 
-### Exercício 01 
+### Exercício 01 - Maior ciclo 
 
-![Texto alternativo](caminho/para/imagem.png)
+![Exercício 1 - Longest Cycle in a Graph](caminho/para/imagem.png)
 
 ### Exercício 02 
 
