@@ -32,7 +32,7 @@ Foi utilizado linguagem C.
 
 ### Exercício 01 - Maior ciclo 
 
-![Exercício 1 - Longest Cycle in a Graph](caminho/para/imagem.png)
+![Exercício 1 - Longest Cycle in a Graph](Grafos1_LeetCode_D5_2025.2\2360_MaiorCiclo\2360.png)
 
 ### Exercício 02 
 
